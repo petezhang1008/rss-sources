@@ -3,7 +3,6 @@ Welcome to the Ultimate RSS Source Collection! 🌐📚
 This GitHub repository is your go-to resource for discovering and curating a wide array of usable RSS feed links. Whether you're looking for news, blogs, podcasts, or niche content, you'll find it all here. Stay updated effortlessly by exploring our curated list of RSS sources designed to enhance your information flow. Join us in building a comprehensive collection that keeps you connected to the content you care about!
 
 ## 1. Technology
-
 |Rss Link|Title|Website Url|
 |---|---|---|
 |https://www.technologyreview.com/topnews.rss|MIT Technology Review|https://www.technologyreview.com|
@@ -24,8 +23,8 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://blog.angular.io/feed|Angular Blog|https://blog.angular.dev?source=rss----447683c3d9a3---4|
 |https://codeblog.jonskeet.uk/feed/|Jon Skeet's coding blog|https://codeblog.jonskeet.uk|
 |https://feeds2.feedburner.com/programthink|编程随想的博客|https://program-think.blogspot.com/|
-|https://zaufanatrzeciastrona.pl/feed/|Strona główna | Zaufana Trzecia Strona|https://zaufanatrzeciastrona.pl|
-|https://blog.malwarebytes.com/feed/|Cyber Security Software and Anti-Malware | Malwarebytes|https://www.malwarebytes.com/|
+|https://zaufanatrzeciastrona.pl/feed/|Strona główna Zaufana Trzecia Strona|https://zaufanatrzeciastrona.pl|
+|https://blog.malwarebytes.com/feed/|Cyber Security Software and Anti-Malware |https://www.malwarebytes.com/|
 |https://theintercept.com/feed/?rss|Homepage|https://theintercept.com/|
 |https://code.fb.com/feed/|Engineering at Meta|https://engineering.fb.com/|
 |https://tim.blog/feed/|The Blog of Author Tim Ferriss|https://tim.blog/|
@@ -39,7 +38,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://aws.amazon.com/blogs/devops/feed/|AWS DevOps & Developer Productivity Blog|https://aws.amazon.com/blogs/devops/|
 |https://flow.microsoft.com/en-us/blog/feed/|Microsoft Power Automate|https://flow.microsoft.com|
 |https://www.factorio.com/blog/rss|Factorio|https://www.factorio.com/|
-|http://blog.malwarebytes.org/feed/|Cyber Security Software and Anti-Malware | Malwarebytes|https://www.malwarebytes.com/|
+|http://blog.malwarebytes.org/feed/|Cyber Security Software and Anti-Malware |https://www.malwarebytes.com/|
 |https://eli.thegreenplace.net/feeds/all.atom.xml|Eli Bendersky's website|https://eli.thegreenplace.net/|
 |https://aws.amazon.com/security/security-bulletins/feed/|Latest Bulletins - Amazon Web Services (AWS)|https://aws.amazon.com/security/security-bulletins/rss/|
 |http://feeds.feedburner.com/Securityweek|SecurityWeek|https://www.securityweek.com/|
@@ -50,13 +49,13 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://msdn.itellyou.cn/rss.ashx|MSDN, 我告诉你 - 做一个安静的工具站|https://msdn.itellyou.cn|
 |https://www.cnbc.com/id/19854910/device/rss/rss.html|Tech|https://www.cnbc.com/technology/|
 |https://www.zhangxinxu.com/wordpress/feed/|张鑫旭-鑫空间-鑫生活|https://www.zhangxinxu.com/wordpress|
-|http://www.engadget.com/rss.xml|Engadget | Technology News & Reviews|https://www.engadget.com/|
+|http://www.engadget.com/rss.xml|Engadget - Technology News & Reviews|https://www.engadget.com/|
 |https://towardsdatascience.com/feed|Towards Data Science|https://towardsdatascience.com?source=rss----7f60cf5620c9---4|
 |http://researchcenter.paloaltonetworks.com/feed/|Palo Alto Networks Blog|https://www.paloaltonetworks.com/blog/|
 |https://digi.ninja/rss.xml|DigiNinja|https://digi.ninja/rss.xml|
 |https://www.schneier.com/blog/atom.xml|Schneier on Security|https://www.schneier.com/|
 |http://feeds.feedburner.com/PentestTools|KitPloit - PenTest & Hacking Tools|http://www.kitploit.com/|
-|https://www.webdesignerdepot.com/feed/|Web Design Blog | Web Designer Depot|https://webdesignerdepot.com|
+|https://www.webdesignerdepot.com/feed/|Web Design Blog|https://webdesignerdepot.com|
 |http://feeds.macrumors.com/MacRumors-All|MacRumors: Apple News and Rumors|https://www.macrumors.com|
 |http://www.f-secure.com/weblog/weblog.rdf|News from the Lab Archive : January 2004 to September 2015|https://www.f-secure.com/weblog|
 |http://www.greyhathacker.net/?feed=rss2|GreyHatHacker.NET – Malware, Vulnerabilities, Exploits and more . . .|https://www.greyhathacker.net|
@@ -68,20 +67,20 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://aws.amazon.com/blogs/big-data/feed/|AWS Big Data Blog|https://aws.amazon.com/blogs/big-data/|
 |https://aws.amazon.com/blogs/compute/feed/|AWS Compute Blog|https://aws.amazon.com/blogs/compute/|
 |https://theintercept.com/feed/?lang=en|Homepage|https://theintercept.com/|
-|https://powerapps.microsoft.com/en-us/blog/feed/|Microsoft Power Apps – Build Apps with AI | Microsoft|https://powerapps.microsoft.com|
+|https://powerapps.microsoft.com/en-us/blog/feed/|Microsoft Power Apps – Build Apps with AI - Microsoft|https://powerapps.microsoft.com|
 |https://blogs.windows.com/msedgedev/feed/|Microsoft Edge Blog|https://blogs.windows.com/msedgedev/|
 |https://research.fb.com/feed/|Log into Facebook|https://research.facebook.com/|
-|https://codeascraft.com/feed/|Etsy Engineering | Code as Craft|http://www.etsy.com/|
+|https://codeascraft.com/feed/|Etsy Engineering - Code as Craft|http://www.etsy.com/|
 |https://devblogs.microsoft.com/devops/feed/|Azure DevOps Blog|https://devblogs.microsoft.com/devops/|
 |https://planetpython.org/rss20.xml|Planet Python|http://planetpython.org/|
-|https://blogs.unity3d.com/feed/|Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine|https://unity.com|
+|https://blogs.unity3d.com/feed/|Unity Real-Time Development Platform |https://unity.com|
 |http://feeds.feedburner.com/avc|AVC|https://avc.com/|
-|https://www.analyticsvidhya.com/feed/|Analytics Vidhya | The ultimate place for Generative AI, Data Science and Data Engineering|https://www.analyticsvidhya.com/|
+|https://www.analyticsvidhya.com/feed/|Analytics Vidhya |https://www.analyticsvidhya.com/|
 |http://rss.sciam.com/ScientificAmerican-Global|Scientific American|https://www.scientificamerican.com|
 |https://devblogs.microsoft.com/dotnet/feed/|.NET Blog|https://devblogs.microsoft.com/dotnet/|
 |https://www.eff.org/rss/updates.xml|Deeplinks|https://www.eff.org/rss/updates.xml|
 |https://aws.amazon.com/about-aws/whats-new/recent/feed/|What’s New at AWS – Cloud Innovation & News|https://aws.amazon.com/about-aws/whats-new/recent/|
-|https://www.techradar.com/rss|TechRadar | the technology experts|https://www.techradar.com|
+|https://www.techradar.com/rss|TechRadar - the technology experts|https://www.techradar.com|
 |https://www.analisideirischinformatici.it/sicurezza/feed/|Sicurezza Informatica Facile : il blog che ti difende dai pericoli della rete|https://www.analisideirischinformatici.it/sicurezza|
 |http://seclists.org/rss/fulldisclosure.rss|SecLists.Org Security Mailing List Archive|https://seclists.org/#fulldisclosure|
 |https://android-developers.googleblog.com/feeds/posts/default|Android Developers Blog|http://android-developers.googleblog.com/|
@@ -91,7 +90,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://blog.golang.org/feed.atom|The Go Blog|https://go.dev/blog/feed.atom|
 |https://aws.amazon.com/new/feed/|What’s New at AWS – Cloud Innovation & News|https://aws.amazon.com/about-aws/whats-new/recent/|
 |https://technet.microsoft.com/en-us/security/rss/advisory|Advisories|https://technet.microsoft.com/en-us/security/advisory|
-|https://cloudblog.withgoogle.com/rss/|Google Cloud Blog | News, Features and Announcements|https://cloud.google.com/blog/|
+|https://cloudblog.withgoogle.com/rss/|Google Cloud Blog |https://cloud.google.com/blog/|
 |https://www.blog.google/rss/|The Keyword|https://blog.google/|
 |http://googleonlinesecurity.blogspot.com/feeds/posts/default|Google Online Security Blog|http://security.googleblog.com/|
 |https://free.com.tw/feed/|免費資源網路社群 – 免費資源指南，每日網路資訊與科技新知|https://free.com.tw|
@@ -99,24 +98,24 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://www.theverge.com/rss/index.xml|The Verge -  All Posts|https://www.theverge.com/|
 |https://aws.amazon.com/blogs/machine-learning/feed/|AWS Machine Learning Blog|https://aws.amazon.com/blogs/machine-learning/|
 |http://blog.shakirm.com/feed/|The Spectator|https://blog.shakirm.com|
-|https://www.digitaltrends.com/feed/|Digital Trends | Tech Product Reviews, How To, Best Ofs, deals and Advice|https://www.digitaltrends.com|
+|https://www.digitaltrends.com/feed/|Digital Trends - Tech Product Reviews, How To, Best Ofs, deals and Advice|https://www.digitaltrends.com|
 |https://feeds.feedburner.com/GoogleOnlineSecurityBlog|Google Online Security Blog|http://security.googleblog.com/|
 |https://www.troyhunt.com/rss/|Troy Hunt|https://www.troyhunt.com/|
 |https://labs.spotify.com/feed/|Spotify Engineering|https://engineering.atspotify.com/|
 |https://devblogs.microsoft.com/visualstudio/feed/|The Visual Studio Blog|https://devblogs.microsoft.com/visualstudio/|
 |https://spring.io/blog.atom|Home|https://spring.io|
 |http://feeds.feedburner.com/HighScalability|High Scalability|http://highscalability.com/blog/|
-|http://letsfilm.org/comments/feed|“胶片的味道 | 胶片的味道”的评论|http://letsfilm.org|
+|http://letsfilm.org/comments/feed|胶片的味道|http://letsfilm.org|
 |https://www.zdnet.com/blog/security/rss.xml|News and Advice on the World's Latest Innovations|https://www.zdnet.com/|
 |https://www.reddit.com/r/technology/.rss|Reddit/Technology|https://www.reddit.com/r/technology/|
-|https://about.gitlab.com/atom.xml|Blog | GitLab|https://about.gitlab.com/blog/|
+|https://about.gitlab.com/atom.xml|Blog - GitLab|https://about.gitlab.com/blog/|
 |https://www.helpnetsecurity.com/feed/|Cybersecurity News and Expert Analysis - Help Net Security|https://www.helpnetsecurity.com/|
 |https://www.archlinux.org/feeds/news/|Arch Linux - News|https://archlinux.org/news/|
 |http://feeds.arstechnica.com/arstechnica/index/|Ars Technica|https://arstechnica.com|
 |https://www.cnet.com/rss/all/|CNET: Product reviews, advice, how-tos and the latest news| https://www.cnet.com/#ftag=CADf328eec |
 |https://www.kdnuggets.com/feed/|KDnuggets|https://www.kdnuggets.com|
 |https://paper.seebug.org/rss/|paper - Last paper|https://paper.seebug.org/|
-|http://www.engadget.com/rss-full.xml|Engadget | Technology News & Reviews|https://www.engadget.com/|
+|http://www.engadget.com/rss-full.xml|Engadget Technology News & Reviews|https://www.engadget.com/|
 |https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A|Tom Scott|https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A|
 |https://developers.googleblog.com/feeds/posts/default?alt=rss|Google Developers Blog|https://developers.googleblog.com/rss/|
 |https://aws.amazon.com/blogs/aws/feed/|AWS News Blog|https://aws.amazon.com/blogs/aws/|
@@ -124,7 +123,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://feeds2.feedburner.com/tympanus|Codrops - Fueling web creativity|https://tympanus.net/codrops|
 |https://code.facebook.com/posts/rss|Engineering at Meta|https://engineering.fb.com/|
 |https://www.zdnet.com/news/rss.xml|News and Advice on the World's Latest Innovations|https://www.zdnet.com/|
-|https://blog.acolyer.org/feed/|the morning paper | a random walk through Computer Science research, by Adrian Colyer|https://blog.acolyer.org|
+|https://blog.acolyer.org/feed/|the morning paper - a random walk through Computer Science research, by Adrian Colyer|https://blog.acolyer.org|
 |https://draveness.me/feed.xml|面向信仰编程|https://draveness.me/|
 |http://carnal0wnage.attackresearch.com/feeds/posts/default|Carnal0wnage Blog|https://blog.carnal0wnage.com/|
 |https://blog.devtang.com/atom.xml|唐巧的博客|https://blog.devtang.com/|
@@ -139,26 +138,26 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://www.bleepingcomputer.com/feed/|BleepingComputer|https://www.bleepingcomputer.com/|
 |http://rss.slashdot.org/Slashdot/slashdot|Slashdot: News for nerds, stuff that matters|https://slashdot.org/|
 |http://www.freebuf.com/feed|FreeBuf网络安全行业门户|https://www.freebuf.com|
-|https://thehackernews.com/feeds/posts/default?alt=rss|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
+|https://thehackernews.com/feeds/posts/default?alt=rss|The Hacker News|https://thehackernews.com|
 |https://plink.anyfeeder.com/weibo/search/hot|Sina Visitor System|https://s.weibo.com/top/summary?cate=realtimehot|
 |https://security.googleblog.com/feeds/posts/default|Google Online Security Blog|http://security.googleblog.com/|
 |https://blog.cryptographyengineering.com/feed/|A Few Thoughts on Cryptographic Engineering|https://blog.cryptographyengineering.com|
 |http://www.joelonsoftware.com/rss.xml|Joel on Software|https://www.joelonsoftware.com|
 |https://news.bitcoin.com/feed/|Bitcoin.com News|https://news.bitcoin.com/|
 |http://feeds.hanselman.com/ScottHanselman|Scott Hanselman|https://www.hanselman.com/blog/|
-|https://cloudblog.withgoogle.com/products/gcp/rss/|Google Cloud | Google Cloud Blog|https://cloud.google.com/blog/products/gcp/|
+|https://cloudblog.withgoogle.com/products/gcp/rss/| Google Cloud Blog|https://cloud.google.com/blog/products/gcp/|
 |https://feeds.feedburner.com/Torrentfreak|TorrentFreak - News|https://torrentfreak.com/|
 |http://waitbutwhy.com/feed|Wait But Why|https://waitbutwhy.com/|
-|http://feeds.feedburner.com/TheHackersNews|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
+|http://feeds.feedburner.com/TheHackersNews|The Hacker News|https://thehackernews.com|
 |https://security.googleblog.com/feeds/posts/default?alt=rss|Google Online Security Blog|http://security.googleblog.com/|
 |http://www.36kr.com/feed|36氪_让一部分人先看到未来|http://36kr.com|
 |http://feeds.feedburner.com/Torrentfreak|TorrentFreak - News|https://torrentfreak.com/|
 |http://feeds.dzone.com/java|Java Resources|https://dzone.com/java|
 |https://feeds.feedburner.com/securityweek|SecurityWeek|https://www.securityweek.com/|
 |https://portswigger.net/blog/rss|PortSwigger Blog|https://portswigger.net/blog|
-|https://feeds.feedburner.com/TheHackersNews|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
+|https://feeds.feedburner.com/TheHackersNews|The Hacker News|https://thehackernews.com|
 |https://www.apple.com/newsroom/rss-feed.rss|Apple Newsroom|https://www.apple.com/newsroom/rss-feed.rss|
-|https://www.confluent.io/feed/|Confluent | The Data Streaming Platform|https://www.confluent.io|
+|https://www.confluent.io/feed/|Confluent - The Data Streaming Platform|https://www.confluent.io|
 |http://www.brendangregg.com/blog/rss.xml|Brendan Gregg's Blog|http://www.brendangregg.com/blog|
 |https://www.kb.cert.org/vulfeed|CERT Coordination Center|https://kb.cert.org/vuls/|
 |http://www.macrumors.com/macrumors.xml|MacRumors: Apple News and Rumors|https://www.macrumors.com|
@@ -177,14 +176,14 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://feeds.feedburner.com/GDBcode|Google Developers Blog|https://developers.googleblog.com/rss/|
 |https://www.joelonsoftware.com/feed/|Joel on Software|https://www.joelonsoftware.com|
 |http://feeds.dzone.com/home|DZone: Programming & DevOps news, tutorials & tools|https://dzone.com|
-|https://www.us-cert.gov/ncas/bulletins.xml|Home Page | CISA|https://www.cisa.gov/|
+|https://www.us-cert.gov/ncas/bulletins.xml|Home Page - CISA|https://www.cisa.gov/|
 |https://opentrackers.org/feed/|Opentrackers.org|https://opentrackers.org/|
 |https://enigma0x3.net/feed/|enigma0x3|https://enigma0x3.net|
-|https://us-cert.cisa.gov/ncas/alerts.xml|Home Page | CISA|https://www.cisa.gov/|
+|https://us-cert.cisa.gov/ncas/alerts.xml|Home Page - CISA|https://www.cisa.gov/|
 |https://www.androidauthority.com/feed/|Android Authority: Tech Reviews, News, Buyer's Guides, Deals, How-To|https://www.androidauthority.com/|
 |http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml|Technology|https://www.nytimes.com/section/technology|
 |https://blogs.technet.microsoft.com/heyscriptingguy/feed/|Scripting|https://devblogs.microsoft.com/scripting/|
-|http://feeds.bbci.co.uk/news/technology/rss.xml|Technology | Latest News & Updates | BBC News|https://www.bbc.co.uk/news/technology|
+|http://feeds.bbci.co.uk/news/technology/rss.xml|Technology - Latest News & Updates - BBC News|https://www.bbc.co.uk/news/technology|
 |https://realpython.com/atom.xml|Real Python|https://realpython.com/atom.xml|
 |http://aws.amazon.com/new/feed/|What’s New at AWS – Cloud Innovation & News|https://aws.amazon.com/about-aws/whats-new/recent/|
 |https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss|Project Zero|https://googleprojectzero.blogspot.com/|
@@ -200,7 +199,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://www.producthunt.com/feed|Product Hunt – The best new products in tech.|https://www.producthunt.com|
 |https://www.hackread.com/feed/|Hackread - Latest Cybersecurity News, Press Releases & Technology Today|https://hackread.com|
 |http://feed.iplaysoft.com/|异次元软件世界|https://www.iplaysoft.com|
-|https://www.leavesongs.com/rss.php|首页 | 离别歌|https://www.leavesongs.com|
+|https://www.leavesongs.com/rss.php|首页 - 离别歌|https://www.leavesongs.com|
 |http://thecyberwire.libsyn.com/rss|CyberWire Daily|https://thecyberwire.com/podcasts/daily-podcast|
 |https://kubernetes.io/feed.xml|Production-Grade Container Orchestration|https://kubernetes.io/|
 |https://www.gsmarena.com/rss-news-reviews.php3|GSMArena.com - mobile phone reviews, news, specifications and more...|https://www.gsmarena.com/|
@@ -217,8 +216,8 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://boingboing.net/feed|Boing Boing - A Directory of Mostly Wonderful Things|https://boingboing.net/|
 |https://www.wired.com/feed|WIRED - The Latest in Technology, Science, Culture and Business|https://www.wired.com|
 |http://evilcos.me/?feed=rss2|EVILCOS – //:alert(/Hacking Symbol/)//余弦|https://evilcos.me|
-|http://www.shejidaren.com/feed|设计达人 | 爱设计，爱分享。|https://www.shejidaren.com|
-|https://threatpost.com/feed/|Threatpost | The first stop for security news|https://threatpost.com|
+|http://www.shejidaren.com/feed|设计达人 - 爱设计，爱分享。|https://www.shejidaren.com|
+|https://threatpost.com/feed/|Threatpost - The first stop for security news|https://threatpost.com|
 |https://null-byte.wonderhowto.com/rss.xml|Null Byte|https://null-byte.wonderhowto.com/|
 |http://www.ifanr.com/feed|爱范儿|https://www.ifanr.com?utm_source=rss&utm_medium=rss&utm_campaign=|
 |https://jvns.ca/atom.xml|Julia Evans|http://jvns.ca/atom.xml|
@@ -228,7 +227,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://feeds.feedburner.com/blogspot/hsDu|Android Developers Blog|http://android-developers.googleblog.com/|
 |https://blogs.msdn.microsoft.com/powershell/feed/|Powershell|https://devblogs.microsoft.com/powershell/|
 |https://cloudblogs.microsoft.com/microsoftsecure/feed/|Microsoft Security Blog|https://www.microsoft.com/en-us/security/blog/|
-|https://developer.salesforce.com/blogs/feed|Developer Blog | Salesforce Developers|https://developer.salesforce.com/blogs|
+|https://developer.salesforce.com/blogs/feed|Developer Blog - Salesforce Developers|https://developer.salesforce.com/blogs|
 |http://fitgirl-repacks.site/feed/|FitGirl Repacks|https://fitgirl-repacks.site/|
 |https://www.elastic.co/blog/feed|Elastic — The Search AI Company|https://www.elastic.co|
 |https://blog.cloudflare.com/rss/|The Cloudflare Blog|https://blog.cloudflare.com|
@@ -240,12 +239,12 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://feeds.feedburner.com/Makeuseof|MUO - Technology, Simplified.|https://www.makeuseof.com |
 |http://www.smashingmagazine.com/feed/|Smashing Magazine — For Web Designers And Developers|https://www.smashingmagazine.com/|
 |https://www.theregister.co.uk/security/headlines.atom|Security News • The Register|https://www.theregister.com/security/|
-|http://www.securelist.com/en/rss/allupdates|Securelist | Kaspersky’s threat research and reports|https://securelist.com|
+|http://www.securelist.com/en/rss/allupdates|Securelist - Kaspersky’s threat research and reports|https://securelist.com|
 |https://azure.microsoft.com/en-us/blog/feed/|Microsoft Azure Blog|https://azure.microsoft.com/en-us/blog/|
 |http://feeds.feedburner.com/TroyHunt|Troy Hunt|https://www.troyhunt.com/|
 |http://feeds.boingboing.net/boingboing/iBag|Boing Boing - A Directory of Mostly Wonderful Things|https://boingboing.net/|
 |https://9to5mac.com/feed/|9to5Mac - Apple News & Mac Rumors Breaking All Day|https://9to5mac.com/|
-|http://techcrunch.com/feed/|TechCrunch | Startup and Technology News|https://techcrunch.com/|
+|http://techcrunch.com/feed/|TechCrunch - Startup and Technology News|https://techcrunch.com/|
 |https://medium.com/feed/airbnb-engineering|The Airbnb Tech Blog - Medium|https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4|
 |http://feeds.feedburner.com/AmazonWebServicesBlog|AWS News Blog|https://aws.amazon.com/blogs/aws/|
 |http://feeds2.feedburner.com/stadt-bremerhaven/dqXM|Caschys Blog Smart Home, Software, Hardware, Mobile Computing & Co.|https://stadt-bremerhaven.de|
@@ -261,7 +260,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |http://feeds.feedburner.com/2ality|2ality – JavaScript and more|https://2ality.com/|
 |https://blog.xpnsec.com/rss/|blog.xpnsec.com - @_xpn_|https://blog.xpnsec.com/|
 |https://feed.laravel-news.com/|Laravel News|https://laravel-news.com|
-|https://www.us-cert.gov/ncas/current-activity.xml|Home Page | CISA|https://www.cisa.gov/|
+|https://www.us-cert.gov/ncas/current-activity.xml|Home Page - CISA|https://www.cisa.gov/|
 |http://www.geekpark.net/rss|极客公园|http://mainssl.geekpark.net/rss.rss|
 |https://android-developers.googleblog.com/feeds/posts/default?alt=rss|Android Developers Blog|http://android-developers.googleblog.com/|
 |http://www.ghacks.net/feed/|gHacks Technology News and Advice|http://www.ghacks.net|
@@ -270,9 +269,9 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://blogs.cisco.com/security/feed|Security|https://blogs.cisco.com/security|
 |https://fitgirl-repacks.site/feed/|FitGirl Repacks|https://fitgirl-repacks.site/|
 |https://distill.pub/rss.xml|Distill — Latest articles about machine learning|https://distill.pub|
-|http://thehackernews.com/feeds/posts/default?alt=rss|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
+|http://thehackernews.com/feeds/posts/default?alt=rss| The Hacker News|https://thehackernews.com|
 |https://daringfireball.net/feeds/main|Daring Fireball|https://daringfireball.net/|
-|https://securelist.com/feed/|Securelist | Kaspersky’s threat research and reports|https://securelist.com|
+|https://securelist.com/feed/|Securelist - Kaspersky’s threat research and reports|https://securelist.com|
 |https://yts.am/rss|The Official Home of YIFY Movies Torrent Download - YTS|https://yts.mx/|
 |http://rss1.smashingmagazine.com/feed/|Smashing Magazine — For Web Designers And Developers|https://www.smashingmagazine.com/|
 |https://blog.mozilla.org/security/feed/|Mozilla Security Blog|https://blog.mozilla.org/security/|
@@ -288,11 +287,11 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://blogs.dropbox.com/tech/feed/|Dropbox Tech Blog|https://dropbox.tech|
 |http://www.ruanyifeng.com/blog/atom.xml|阮一峰的网络日志|http://www.ruanyifeng.com/blog/|
 |https://jeremykun.com/feed/|Math ∩ Programming|https://www.jeremykun.com/|
-|https://www.corelan.be/index.php/feed/|..:: Corelan Team | Peter Van Eeckhoutte (corelanc0d3r) ::..|https://www.corelan.be|
-|https://www.us-cert.gov/ncas/alerts.xml|Home Page | CISA|https://www.cisa.gov/|
+|https://www.corelan.be/index.php/feed/|Peter Van Eeckhoutte |https://www.corelan.be|
+|https://www.us-cert.gov/ncas/alerts.xml|Home Page - CISA|https://www.cisa.gov/|
 |http://blog.chromium.org/feeds/posts/default|Chromium Blog|http://blog.chromium.org/|
 |https://www.wired.com/feed/category/security/latest/rss|WIRED - The Latest in Technology, Science, Culture and Business|https://www.wired.com|
-|https://thehackernews.com/feeds/posts/default|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
+|https://thehackernews.com/feeds/posts/default|The Hacker News |https://thehackernews.com|
 |https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS|Microsoft 365 Roadmap - Get the Latest Updates|https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS|
 |http://seclists.org/rss/bugtraq.rss|SecLists.Org Security Mailing List Archive|https://seclists.org/#bugtraq|
 |https://code.visualstudio.com/feed.xml|Visual Studio Code - Code Editing. Redefined|https://code.visualstudio.com/|
@@ -300,17 +299,17 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 |https://feeds.feedburner.com/MachineLearningMastery|MachineLearningMastery.com|https://machinelearningmastery.com/|
 |http://www.schneier.com/blog/index.rdf|Schneier on Security|https://www.schneier.com/|
 |http://www.bay12games.com/dwarves/dev_now.rss|Bay 12 Games: Dwarf Fortress|http://www.bay12games.com/dwarves/index.html|
-|http://feeds2.feedburner.com/TheNextWeb|TNW | The heart of tech|https://thenextweb.com|
-|https://gizmodo.com/rss|Gizmodo | The Future Is Here|https://gizmodo.com/|
+|http://feeds2.feedburner.com/TheNextWeb|TNW - The heart of tech|https://thenextweb.com|
+|https://gizmodo.com/rss|Gizmodo - The Future Is Here|https://gizmodo.com/|
 |https://danielmiessler.com/feed/|Daniel Miessler|https://danielmiessler.com|
-|https://www.newsbtc.com/feed/|The Latest Bitcoin News & Expert Crypto Insights | NewsBTC|https://www.newsbtc.com/|
+|https://www.newsbtc.com/feed/|The Latest Bitcoin News & Expert Crypto Insights - NewsBTC|https://www.newsbtc.com/|
 |http://feeds.feedburner.com/d0od|OMG! Ubuntu - Everything Ubuntu, Since 2009|https://www.omgubuntu.co.uk/|
 |http://feeds.feedburner.com/blogspot/gJZg|Latest News from Google Research Blog - Google Research|http://blog.research.google/|
 |https://www.zdnet.com/topic/security/rss.xml|News and Advice on the World's Latest Innovations|https://www.zdnet.com/|
 |http://feeds.haacked.com/haacked|You've Been Haacked|https://haacked.com/|
 |https://www.google.com/appsstatus/rss/en|Google Workspace Status Dashboard|https://www.google.com/appsstatus/dashboard/|
-|http://thehackernews.com/feeds/posts/default|The Hacker News | #1 Trusted Cybersecurity News Site|https://thehackernews.com|
-|https://feeds.feedburner.com/niebezpiecznik/|-- Niebezpiecznik.pl --|https://niebezpiecznik.pl|
+|http://thehackernews.com/feeds/posts/default|The Hacker News |https://thehackernews.com|
+|https://feeds.feedburner.com/niebezpiecznik/|Niebezpiecznik.pl|https://niebezpiecznik.pl|
 |https://www.techmeme.com/feed.xml|Techmeme|http://www.techmeme.com/|
 |https://www.grahamcluley.com/feed/|Graham Cluley - Computer security news, advice, and opinion|https://grahamcluley.com|
 |https://securityboulevard.com/feed/|Home|https://securityboulevard.com/|
