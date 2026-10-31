@@ -5,6 +5,7 @@ This GitHub repository is your go-to resource for discovering and curating a wid
 ## 1. Technology
 |Rss Link|Title|Website Url|
 |---|---|---|
+|https://joho-todai.com/pinterest-rss/|Joho no Todai - Japanese technology news|https://joho-todai.com/|
 |https://www.technologyreview.com/topnews.rss|MIT Technology Review|https://www.technologyreview.com|
 |https://www.cloudflarestatus.com/history.atom|Cloudflare Status|https://www.cloudflarestatus.com|
 |http://colah.github.io/rss.xml|Home - colah's blog|http://colah.github.io/|
